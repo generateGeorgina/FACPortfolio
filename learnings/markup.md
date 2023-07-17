@@ -1,3 +1,5 @@
+Deployed project: [https://generategeorgina.github.io/fac-agency/](https://generategeorgina.github.io/fac-agency/)
+
 ## 1. Structure a site using semantic HTML to aid accessibility
 Here I used `section`, `article` and `p` elements to strucutre the website to aid accessibility.
 

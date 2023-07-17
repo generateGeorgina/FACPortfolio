@@ -1,3 +1,5 @@
+Deployed project: [https://sgroi-l.github.io/apiProject/](https://sgroi-l.github.io/apiProject/)
+
 ## 1. Write code that executes asynchronously
 Here is an an example of code that executes asynchronously using promises.
 

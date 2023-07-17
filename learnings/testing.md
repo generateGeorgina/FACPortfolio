@@ -1,3 +1,5 @@
+Deployed site: [https://cazanelena.github.io/to-do-list/](https://cazanelena.github.io/to-do-list/)
+
 ## 1. Check that passing a given input into our tests returns the expected output
 Here, I implemented test helpers using vanilla JavaScript to test the expected result against the actual return.
 
