@@ -36,5 +36,5 @@ Git history shows the order the features were worked on and demonstrates how the
 
 ![git commit history main branch](../images/markup/Screenshot%202023-06-11%20at%2012.46.13.png)
 ## 11. Use the appropriate input types in HTML forms for gathering different types of information
-I used text input type for name. This section could have been improved by using `type="tel` for telephone number.
+I used text input type for name. This section could have been improved by using `type="tel"` for telephone number.
 ![HTML forms input type](../images/markup/Screenshot%202023-06-11%20at%2012.48.14.png)
